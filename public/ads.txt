@@ -1,7 +1,9 @@
-# ads.txt file for B-Tool
-# This file will be updated when Google AdSense is approved
-# google.com, pub-XXXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
-
-# Placeholder - will be updated with actual publisher ID after AdSense approval
-# For now, this file exists to show compliance with ads.txt standards
-
+google.com, pub-6349280627462113, DIRECT, f08c47fec0942fa0
+google.com, pub-3527420836137093, DIRECT, f08c47fec0942fa0
+google.com, pub-6418824749956321, DIRECT, f08c47fec0942fa0
+google.com, pub-8576162064897607, DIRECT, f08c47fec0942fa0
+google.com, pub-4528878312719206, DIRECT, f08c47fec0942fa0
+google.com, pub-5889284522449129, DIRECT, f08c47fec0942fa0
+google.com, pub-3814855256451869, DIRECT, f08c47fec0942fa0
+google.com, pub-3083972544365756, DIRECT, f08c47fec0942fa0
+google.com, pub-4505468992078398, DIRECT, f08c47fec0942fa0
